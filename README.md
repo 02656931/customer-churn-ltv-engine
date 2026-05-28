@@ -23,7 +23,7 @@ This project predicts customer churn and estimates customer lifetime value (LTV)
 - requirements.txt
 
 ## Author
-Priti Mhetre,
+Priti,
 Logeswari,
 Dinesh,
 Sai.
